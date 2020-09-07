@@ -11,6 +11,3 @@ If at any point, food, water, or sleep levels drop below 50, the user will get a
 If at any point, the user wants to quit, they just have to enter 4, and they can leave the game.
 
 With more time, I would have liked to incorporate additional features such as more things to do with your pet - play a game, read a book, go for a walk. It would also have been neat to go to a further level, so when you feed your pet, "what would you like to feed it?" with a list of 5 foods. 
-
-
-Please ignore the test document, as I was struggling with that portion and didn't quite get it to work.
